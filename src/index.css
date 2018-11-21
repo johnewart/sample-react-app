@@ -12,3 +12,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+div.book { 
+  border: 1px solid #888;
+  font-size: 10pt; 
+  margin-top: 20px;
+  width: 200px; 
+  float: left; 
+}
+
+div.booklist { 
+  width: 300px; 
+}
